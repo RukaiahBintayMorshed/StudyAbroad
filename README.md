@@ -176,7 +176,7 @@ This project is open source and available under the MIT License.
 ## 👤 Author
 
 **Rukaiah Bintay Morshed**
-- GitHub: [@RukaiahBintayMorshed02](https://github.com/RukaiahBintayMorshed02)
+- GitHub: [@RukaiahBintayMorshed](https://github.com/RukaiahBintayMorshed)
 - LinkedIn: [Rukaiah_Bintay_Morshed](https://www.linkedin.com/in/rukaiah-bintay-morshed-866200344/)
 
 ## 🔗 Resources
