@@ -56,7 +56,7 @@ Some functions may not work due to API limitations. For a video demonstration, p
 
 ```bash
 # Clone the repository
-git clone https://github.com/hesney-hasin/Study-Abroad.git
+git clone https://github.com/RukaiahBintayMorshed/Study-Abroad.git
 cd Study-Abroad
 
 # Install dependencies
